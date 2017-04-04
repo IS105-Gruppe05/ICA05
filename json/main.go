@@ -1,8 +1,17 @@
 package main
 
-import "./jsontest"
+import (
+	"./jsonurl"
+	"./jsonurlv2"
+	"./jsonurlv3"
+	"./jsonurlv4"
+	"./jsonurlv5"
+)
 
 func main() {
-	//readurl.ExDecodeMine("http://samples.openweathermap.org/data/2.5/weather?zip=94040%2Cus&appid=b1b15e88fa797225412429c1c50c122a1")
-	jsontest.ExDecodeMine()
+	jsonurl.JsonUrl()
+	go jsonurlv2.JsonUrlV2()
+	go jsonurlv3.JsonUrlV3()
+	go jsonurlv4.JsonUrlV4()
+	jsonurlv5.JsonUrlV5()
 }
