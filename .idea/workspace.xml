@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a522fb-d1ba-4075-9366-8bb6c4ad901c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ICA05.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test1/main.go" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test1/test1.go" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/json/main.go" afterPath="$PROJECT_DIR$/json/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.go" afterPath="$PROJECT_DIR$/server.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-    </list>
+    <list default="true" id="f9a522fb-d1ba-4075-9366-8bb6c4ad901c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
