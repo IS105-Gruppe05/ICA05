@@ -9,9 +9,9 @@ import (
 )
 
 func main() {
-	jsonurl.JsonUrl()
+	go jsonurl.JsonUrl()
 	go jsonurlv2.JsonUrlV2()
 	go jsonurlv3.JsonUrlV3()
 	go jsonurlv4.JsonUrlV4()
-	jsonurlv5.JsonUrlV5()
+	go jsonurlv5.JsonUrlV5()
 }
