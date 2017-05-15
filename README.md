@@ -15,6 +15,5 @@ Skjermbilde fra skyinstansen:
 
 ![Bilde1](https://i.gyazo.com/07ebc278cb0ce47d693aa395c7ec1a22.png)
 
-Terminalen:
 
 ![Bilde2](https://i.gyazo.com/20ef26c2f2fd8ff413031871741f95d1.png)
