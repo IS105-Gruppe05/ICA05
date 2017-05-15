@@ -11,7 +11,7 @@ Per skal ha påskeferie om noen få dager, og ha skal på tur oppi fjellet. Derm
 Brukerscenario 2: 
 Per skal på påskeferie oppe i fjellet hvis det blir fint vær i påske. Så han bestemmer seg for å finne det ut med å åpne sin favoritt værtjeneste “www.guttegruppa-agder.no” for å finne ut hvordan været blir. Han åpner siden og skriver inn søkestedet sitt i søkefeltet og trykker søk. På siden kommer det opp hvor varmt/kaldt det blir, hvor sterk/svak vind det blir og hvilket vær det blir i påske. Da ser han fort at i påske blir det kaldt, men det kommer til å blåse mye og melder bare regn, så da frister det lite med å reise på påskeferie. Så han tar den riktige valget med å bli hjemme å ha en gaming påske. Da slår han opp siden “www.guttegruppa-agder-gaming.no”, der han logger på med brukeren sin. Derfra går han inn på vennelista, for å finner ut hvor mange av vennene hans er online slik han kan snakke med de og spille med dem. Å leve lykkelig alle siden dager. Slutt.
 
-Skjermbilde fra skyinstansen:
+Skjermbilde fra localhost:
 
 ![Bilde1](https://i.gyazo.com/07ebc278cb0ce47d693aa395c7ec1a22.png)
 
