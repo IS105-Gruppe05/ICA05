@@ -5,7 +5,7 @@ Navnliste: Abdikani Gureye, Brede Knutsen Meli, Eirik Aanestad Fintland, Jan Kev
 - I denne oppgaven har alle bidratt. Ikke alle jobber på hver sin maskin, vi jobber av og til bare på noen av pcene og det er da de som laster opp det som er gjort. Derfor kan det vise at det er bare 5/8 som har lastet opp noe. 
 
 Brukerscenario:
-Per skal ha påskeferie om noen få dager, og ha skal på tur oppi fjellet. Dermed er det viktig å vite hva slags vær det vil bli oppe i fjellet i påske. Så han bestemmer seg for å finne det ut med å åpne nettsiden til en av hans favoritte værtjeneste “www.guttegruppa-agder.no”. Han åpner nettsiden og skriver inn hvor han skal være i påske. Etter å ha trykket på knappen “søk” kommer det en ny side opp med all informasjon han trenger. Informasjon om hvor varmt/kaldt, hvor sterk/svak vind og hvilket vær det kommer til å være oppe fjellet i påske. Så nå var Per godt fornøyd med informasjons han hadde fått fra “www.guttegruppa-agder.no” og kunne glede seg til påske. 
+Per skal ha påskeferie om noen få dager, og ha skal på tur oppi fjellet. Dermed er det viktig å vite hva slags vær det vil bli oppe i fjellet i påske. Så han bestemmer seg for å finne det ut med å åpne nettsiden til en av hans favoritte værtjeneste [guttegruppa-agder.go](http://158.37.63.91:8001). Han åpner nettsiden og skriver inn hvor han skal være i påske. Etter å ha trykket på knappen “søk” kommer det en ny side opp med all informasjon han trenger. Informasjon om hvor varmt/kaldt, hvor sterk/svak vind og hvilket vær det kommer til å være oppe fjellet i påske. Så nå var Per godt fornøyd med informasjons han hadde fått fra “www.guttegruppa-agder.no” og kunne glede seg til påske. 
 
 
 Brukerscenario 2: 
