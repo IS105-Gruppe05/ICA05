@@ -13,7 +13,7 @@ Per skal på påskeferie oppe i fjellet hvis det blir fint vær i påske. Så ha
 
 Skjermbilde fra localhost:
 
-![Bilde1](https://i.gyazo.com/07ebc278cb0ce47d693aa395c7ec1a22.png)
+![Bilde1](https://i.gyazo.com/13e3d35744d85fa1bd11de2388c33f19.png)
 
 
 ![Bilde2](https://i.gyazo.com/20ef26c2f2fd8ff413031871741f95d1.png)
