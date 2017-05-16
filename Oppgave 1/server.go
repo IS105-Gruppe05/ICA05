@@ -170,17 +170,7 @@ func foo(w http.ResponseWriter, r *http.Request) {
 	if err := tmpl.Execute(w, w1); err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
-	//Write JSON values to desired HTML template
-	fp2 := path.Join("templates", "index2.html")
-	tmpl2, err := template.ParseFiles(fp2)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-		return
-	}
 
-	if err := tmpl2.Execute(w, w2); err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-	}
 	//Write JSON values to desired HTML template
 	fp3 := path.Join("templates", "index3.html")
 	tmpl3, err := template.ParseFiles(fp3)
@@ -192,5 +182,18 @@ func foo(w http.ResponseWriter, r *http.Request) {
 	if err := tmpl3.Execute(w, w3); err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
+
+	//Write JSON values to desired HTML template
+	fp2 := path.Join("templates", "index2.html")
+	tmpl2, err := template.ParseFiles(fp2)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	if err := tmpl2.Execute(w, w2); err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+	}
+
 
 }
