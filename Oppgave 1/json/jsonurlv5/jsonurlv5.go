@@ -6,9 +6,7 @@ import (
 	"io"
 	"io/ioutil"
 	"net/http"
-	//"io/ioutil"
 	"log"
-	//"net/http"
 	"strings"
 )
 
@@ -28,14 +26,10 @@ func JsonUrlV5() {
 	if err != nil {
 		panic(err)
 	}
-	// show the HTML code as a string %s
-	//fmt.Printf("%s\n\n", html)
-
 	var jsonStream = string(html[:])
 
 	type Location struct {
 		Name string
-		//Region []string
 		Lat float64
 		Lon float64
 	}

@@ -6,9 +6,7 @@ import (
 	"io"
 	"io/ioutil"
 	"net/http"
-	//"io/ioutil"
 	"log"
-	//"net/http"
 	"strings"
 )
 
@@ -28,9 +26,6 @@ func JsonUrl() {
 	if err != nil {
 		panic(err)
 	}
-	// show the HTML code as a string %s
-	//fmt.Printf("%s\n\n", html)
-
 	var jsonStream = string(html[:])
 
 	type Coordinates struct {
