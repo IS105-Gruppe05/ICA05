@@ -20,9 +20,9 @@ Skjermbilde fra nettside:
 
 ![Bilde2](https://i.gyazo.com/20ef26c2f2fd8ff413031871741f95d1.png)
 
-Under json mappen finnes en main.go funksjon som bruker goroutines. Den henter inn værinformasjon fra 5 forskjellige nettsider.
+Under json mappen finnes en main.go funksjon som bruker goroutines. Den henter inn værinformasjon fra 5 forskjellige nettsider. Programmet vil vise værdata live for den gitte plassen.
+
 ```
 go run main.go
 ```
 
-Programmet vil vise værdata live for den gitte plassen.
