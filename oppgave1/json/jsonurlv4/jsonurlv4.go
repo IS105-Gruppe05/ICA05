@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	"net/http"
 	"log"
+	"net/http"
 	"strings"
 )
 
@@ -58,7 +58,7 @@ func JsonUrlV4() {
 		fmt.Printf("Coordinates are: longitude %.2f and latitude %.2f\n", w.Coord.Lon, w.Coord.Lat)
 		fmt.Printf("Temperature in Kelvin: %.f\n", w.Main.Temp)
 		fmt.Printf("Humidity: %.f\n", w.Main.Humidity)
-		fmt.Printf("Wind speed: %.2f\n\n", w.Wind.Speed)
+		fmt.Printf("Wind kph: %.2f\n\n", w.Wind.Speed)
 
 	}
 }
